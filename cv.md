@@ -16,3 +16,15 @@ I am a student in BSU. I want to become a web developer. Hope I will successfull
 
 - basics of HTML
 - basics of CSS
+
+## Code example
+
+```
+function helloWorld() {
+    console.log("Hello, world!");
+}
+```
+
+## Work experience
+
+I do not have any work experience. I am just a student.
