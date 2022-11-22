@@ -28,3 +28,11 @@ function helloWorld() {
 ## Work experience
 
 I do not have any work experience. I am just a student.
+
+## Education
+
+- 11 grades of school
+
+## English
+
+My English level is about A1.
